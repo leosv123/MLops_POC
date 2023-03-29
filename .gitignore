@@ -1,5 +1,14 @@
 # Ignore .DS_Store files created by macOS
 .DS_Store
 
+#Ignore data
+data/
+
 # Ignore mlopspoc-project-d1732575510e.json file
 mlopspoc-project-d1732575510e.json
+mlopspoc-project-904c861ab479.json
+
+#Ignore mlflow folder
+*mlflow.db
+*/mlruns
+*/models
